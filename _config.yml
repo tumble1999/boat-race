@@ -1,2 +1,5 @@
+exclude:
+  - README.md
+
 plugins:
   - jekyll-redirect-from
